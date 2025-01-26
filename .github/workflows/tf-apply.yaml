@@ -26,5 +26,5 @@ jobs:
       run: terraform -chdir=terraform validate
 
     - name: Terraform Apply
-      run: terraform -chdir=terraform -auto-approve -var-file=vars.tfvars apply
+      run: terraform -chdir=terraform -auto-approve -var-file='terraform/vars.tfvars' apply
 

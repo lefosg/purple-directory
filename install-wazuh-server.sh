@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo su
 
 curl -sO https://packages.wazuh.com/4.10/wazuh-install.sh

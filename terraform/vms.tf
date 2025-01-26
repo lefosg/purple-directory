@@ -132,13 +132,26 @@ resource "azurerm_network_interface" "NIC-wazuh-server-vm" {
   }
 }
 
+// script to install wazuh server
+locals {
+  custom_data = <<CUSTOM_DATA
+#!/bin/bash
+sudo su
+curl -sO https://packages.wazuh.com/4.10/wazuh-install.sh
+curl -sO https://packages.wazuh.com/4.10/config.yml
+sed -i 's/<[^>]*-node-ip>/10.0.20.4/g' config.yml
+sed -i 's/<[^>]*-manager-ip>/10.0.20.4/g' config.yml 
+bash wazuh-install.sh --generate-config-files
+bash wazuh-install.sh -a
+CUSTOM_DATA
+}
+
 resource "azurerm_virtual_machine" "wazuh-server-vm" {
   name                  = var.siem-wazuh-server-vm-name
   location              = var.location
   resource_group_name   = "${azurerm_resource_group.all-rg.name}"
   network_interface_ids = [azurerm_network_interface.NIC-wazuh-server-vm.id]
   vm_size               = "Standard_D2as_v4"
-
   # Uncomment this line to delete the OS disk automatically when deleting the VM
   delete_os_disk_on_termination = true
 
@@ -161,26 +174,13 @@ resource "azurerm_virtual_machine" "wazuh-server-vm" {
     computer_name  = var.siem-wazuh-server-vm-name
     admin_username = "testadmin"
     admin_password = "Password1234!"
+    custom_data    = base64encode(local.custom_data)
   }
   os_profile_linux_config {
     disable_password_authentication = false
   }
 }
 
-resource "azurerm_virtual_machine_extension" "VM-EXT-install-wazuh" {
-  name                 = "VM-EXT-install-wazuh"
-  virtual_machine_id   = azurerm_virtual_machine.wazuh-server-vm.id
-  publisher            = "Microsoft.Azure.Extensions"
-  type                 = "CustomScript"
-  type_handler_version = "2.1"
-
-  settings = <<SETTINGS
-    {
-        "fileUris": ["install-wazuh-server.sh"],
-        "commandToExecute": "bash install-wazuh-server.sh"
-    }
-SETTINGS
-}
 
 ##################################################################
 ##### Domain Controller - all-vnet/domain-controller-subnet01 ####
