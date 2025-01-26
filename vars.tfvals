@@ -1,0 +1,14 @@
+location = "West Europe"
+
+rg-name = "all-rg"
+
+vnet-name = "all-vnet"
+dc-subnet-name = "domain-controllers-subnet01"
+siem-subnet-name = "siem-subnet02"
+workstations-subnet-name = "workstations-subnet03"
+gateway-subnet-name = "GatewaySubnet"
+
+workstation-linux-vm-name = "workstation-linux-vm01"
+workstation-windows-vm-name = "work-win-vm02"
+siem-wazuh-server-vm-name = "wazuh-server-vm"
+domain-controller-vm = "ad-dc-vm"

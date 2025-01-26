@@ -1,0 +1,2328 @@
+[
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-ent-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-ent-gensecond:18362.1198.2011031735",
+    "version": "18362.1198.2011031735"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-ent-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-ent-gensecond:18362.1256.2012032308",
+    "version": "18362.1256.2012032308"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-entn-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-entn-gensecond:18362.1198.2011031735",
+    "version": "18362.1198.2011031735"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-entn-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-entn-gensecond:18362.1256.2012032308",
+    "version": "18362.1256.2012032308"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pro-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pro-gensecond:18362.1198.2011031735",
+    "version": "18362.1198.2011031735"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pro-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pro-gensecond:18362.1256.2012032308",
+    "version": "18362.1256.2012032308"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pro-zh-cn-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pro-zh-cn-gensecond:18362.1198.2011031735",
+    "version": "18362.1198.2011031735"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pro-zh-cn-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pro-zh-cn-gensecond:18362.1256.2012032308",
+    "version": "18362.1256.2012032308"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pron-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pron-gensecond:18362.1198.2011031735",
+    "version": "18362.1198.2011031735"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h1-pron-gensecond",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h1-pron-gensecond:18362.1256.2012032308",
+    "version": "18362.1256.2012032308"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pro-g2:18363.1500.2104092145",
+    "version": "18363.1500.2104092145"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pro-g2:18363.1556.2105042120",
+    "version": "18363.1556.2105042120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "fastapi-on-windows-10pro",
+    "publisher": "apps-4-rent",
+    "sku": "fastapi-on-windows-10pro",
+    "urn": "apps-4-rent:fastapi-on-windows-10pro:fastapi-on-windows-10pro:0.0.1",
+    "version": "0.0.1"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pro-zh-cn-g2:18363.1500.2104092145",
+    "version": "18363.1500.2104092145"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pro-zh-cn-g2:18363.1556.2105042120",
+    "version": "18363.1556.2105042120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "nginx-on-windows-10pro",
+    "publisher": "apps-4-rent",
+    "sku": "nginx-on-windows-10pro",
+    "urn": "apps-4-rent:nginx-on-windows-10pro:nginx-on-windows-10pro:0.0.1",
+    "version": "0.0.1"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pron-g2:18363.1500.2104092145",
+    "version": "18363.1500.2104092145"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "19h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:19h2-pron-g2:18363.1556.2105042120",
+    "version": "18363.1556.2105042120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "racket-on-windows-10pro",
+    "publisher": "apps-4-rent",
+    "sku": "racket-on-windows-10pro",
+    "urn": "apps-4-rent:racket-on-windows-10pro:racket-on-windows-10pro:0.0.1",
+    "version": "0.0.1"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-ent:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-ent:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-ent-g2:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-ent-g2:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-entn:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-entn:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-entn-g2:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-entn-g2:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-evd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-evd:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-evd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-evd:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-evd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-evd-g2:19042.2846.230329",
+    "version": "19042.2846.230329"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "20h2-evd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:20h2-evd-g2:19042.2965.230505",
+    "version": "19042.2965.230505"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise:14393.7336.240830",
+    "version": "14393.7336.240830"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise:14393.7515.241101",
+    "version": "14393.7515.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise:14393.7606.241205",
+    "version": "14393.7606.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise:14393.7699.250109",
+    "version": "14393.7699.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise-g2:14393.7336.240830",
+    "version": "14393.7336.240830"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise-g2:14393.7428.241004",
+    "version": "14393.7428.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise-g2:14393.7515.241101",
+    "version": "14393.7515.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise-g2:14393.7606.241205",
+    "version": "14393.7606.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprise-g2:14393.7699.250109",
+    "version": "14393.7699.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen:14393.7336.240830",
+    "version": "14393.7336.240830"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen:14393.7428.241004",
+    "version": "14393.7428.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen:14393.7515.241101",
+    "version": "14393.7515.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen:14393.7606.241205",
+    "version": "14393.7606.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen:14393.7699.250109",
+    "version": "14393.7699.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen-g2:14393.7336.240830",
+    "version": "14393.7336.240830"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen-g2:14393.7428.241004",
+    "version": "14393.7428.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen-g2:14393.7515.241101",
+    "version": "14393.7515.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen-g2:14393.7606.241205",
+    "version": "14393.7606.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs1-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs1-enterprisen-g2:14393.7699.250109",
+    "version": "14393.7699.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs4-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs4-pro-g2:17134.1246.2001090113",
+    "version": "17134.1246.2001090113"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise:17763.6293.240905",
+    "version": "17763.6293.240905"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise:17763.6414.241004",
+    "version": "17763.6414.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise:17763.6532.241101",
+    "version": "17763.6532.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise:17763.6659.241205",
+    "version": "17763.6659.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise:17763.6775.250109",
+    "version": "17763.6775.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-g2:17763.6293.240905",
+    "version": "17763.6293.240905"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-g2:17763.6414.241004",
+    "version": "17763.6414.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-g2:17763.6532.241101",
+    "version": "17763.6532.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-g2:17763.6659.241205",
+    "version": "17763.6659.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-g2:17763.6775.250109",
+    "version": "17763.6775.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprise-standard-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprise-standard-g2:17763.1935.2105080716",
+    "version": "17763.1935.2105080716"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen:17763.6293.240905",
+    "version": "17763.6293.240905"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen:17763.6414.241004",
+    "version": "17763.6414.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen:17763.6532.241101",
+    "version": "17763.6532.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen:17763.6659.241205",
+    "version": "17763.6659.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen:17763.6775.250109",
+    "version": "17763.6775.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-g2:17763.6293.240905",
+    "version": "17763.6293.240905"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-g2:17763.6414.241004",
+    "version": "17763.6414.241004"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-g2:17763.6532.241101",
+    "version": "17763.6532.241101"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-g2:17763.6659.241205",
+    "version": "17763.6659.241205"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-g2:17763.6775.250109",
+    "version": "17763.6775.250109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-standard-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-standard-g2:17763.2300.2111032328",
+    "version": "17763.2300.2111032328"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-enterprisen-standard-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-enterprisen-standard-g2:17763.2366.2112070401",
+    "version": "17763.2366.2112070401"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-evd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-evd-g2:17763.2300.2111032328",
+    "version": "17763.2300.2111032328"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-evd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-evd-g2:17763.2366.2112070401",
+    "version": "17763.2366.2112070401"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pro-g2:17763.1518.2010132039",
+    "version": "17763.1518.2010132039"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pro-g2:17763.1577.2011031610",
+    "version": "17763.1577.2011031610"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pro-zh-cn-g2:17763.1518.2010132039",
+    "version": "17763.1518.2010132039"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pro-zh-cn-g2:17763.1577.2011031610",
+    "version": "17763.1577.2011031610"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pron-g2:17763.1518.2010132039",
+    "version": "17763.1518.2010132039"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "rs5-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:rs5-pron-g2:17763.1577.2011031610",
+    "version": "17763.1577.2011031610"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-avd:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-avd:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-avd-g2:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-avd-g2:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent:19044.2130.221006",
+    "version": "19044.2130.221006"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-g2:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-g2:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc:19044.4894.240906",
+    "version": "19044.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc:19044.5011.241005",
+    "version": "19044.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc:19044.5131.241109",
+    "version": "19044.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc:19044.5247.241206",
+    "version": "19044.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc:19044.5371.250112",
+    "version": "19044.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc-g2:19044.4894.240906",
+    "version": "19044.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc-g2:19044.5011.241005",
+    "version": "19044.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc-g2:19044.5131.241109",
+    "version": "19044.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc-g2:19044.5247.241206",
+    "version": "19044.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-ent-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-ent-ltsc-g2:19044.5371.250112",
+    "version": "19044.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn:19044.2130.221006",
+    "version": "19044.2130.221006"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-g2:19044.4412.240510",
+    "version": "19044.4412.240510"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-g2:19044.4529.240607",
+    "version": "19044.4529.240607"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc:19044.4894.240906",
+    "version": "19044.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc:19044.5011.241005",
+    "version": "19044.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc:19044.5131.241109",
+    "version": "19044.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc:19044.5247.241206",
+    "version": "19044.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc:19044.5371.250112",
+    "version": "19044.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc-g2:19044.4894.240906",
+    "version": "19044.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc-g2:19044.5011.241005",
+    "version": "19044.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc-g2:19044.5131.241109",
+    "version": "19044.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc-g2:19044.5247.241206",
+    "version": "19044.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-entn-ltsc-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-entn-ltsc-g2:19044.5371.250112",
+    "version": "19044.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro:19044.2130.221006",
+    "version": "19044.2130.221006"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-g2:19044.2130.221006",
+    "version": "19044.2130.221006"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-g2:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-g2:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-zh-cn:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-zh-cn:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-zh-cn-g2:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pro-zh-cn-g2:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pron:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pron:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pron-g2:19044.3086.230609",
+    "version": "19044.3086.230609"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-21h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-21h2-pron-g2:19044.3086.230621",
+    "version": "19044.3086.230621"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-avd-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-avd-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-ent-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-ent-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-entn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-entn-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pro-zh-cn-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pro-zh-cn-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-02-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron-g2:19045.4894.240906",
+    "version": "19045.4894.240906"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-03-11T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron-g2:19045.5011.241005",
+    "version": "19045.5011.241005"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "ScheduledForDeprecation",
+      "scheduledDeprecationTime": "2025-04-15T00:00:00+00:00"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron-g2:19045.5131.241109",
+    "version": "19045.5131.241109"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron-g2:19045.5247.241206",
+    "version": "19045.5247.241206"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "win10-22h2-pron-g2",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:win10-22h2-pron-g2:19045.5371.250112",
+    "version": "19045.5371.250112"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-1050",
+    "publisher": "informatica",
+    "sku": "informatica-1050-windows",
+    "urn": "informatica:informatica-windows-1050:informatica-1050-windows:1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-1051",
+    "publisher": "informatica",
+    "sku": "nformatica-1051-windows",
+    "urn": "informatica:informatica-windows-1051:nformatica-1051-windows:1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-1051",
+    "publisher": "informatica",
+    "sku": "nformatica-1051-windows",
+    "urn": "informatica:informatica-windows-1051:nformatica-1051-windows:1.0.1",
+    "version": "1.0.1"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-10511",
+    "publisher": "informatica",
+    "sku": "informatica-windows-10511",
+    "urn": "informatica:informatica-windows-10511:informatica-windows-10511:1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-1053",
+    "publisher": "informatica",
+    "sku": "informatica-windows-1053",
+    "urn": "informatica:informatica-windows-1053:informatica-windows-1053:1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "informatica-windows-1054",
+    "publisher": "informatica",
+    "sku": "informatica-windows-1054",
+    "urn": "informatica:informatica-windows-1054:informatica-windows-1054:1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_0_11-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_0_11-windows:8.0.11",
+    "version": "8.0.11"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_0_12-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_0_12-windows:8.0.12",
+    "version": "8.0.12"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_1-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_1-windows:8.1.1",
+    "version": "8.1.1"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_2-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_2-windows:8.1.2",
+    "version": "8.1.2"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_4-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_4-windows:8.1.4",
+    "version": "8.1.4"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_6-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_6-windows:8.1.6",
+    "version": "8.1.6"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_7-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_7-windows:8.1.7",
+    "version": "8.1.7"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_8-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_8-windows:8.1.8",
+    "version": "8.1.8"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "joget-dx8-windows-10users",
+    "publisher": "jogetinc",
+    "sku": "v8_1_9-windows",
+    "urn": "jogetinc:joget-dx8-windows-10users:v8_1_9-windows:8.1.9",
+    "version": "8.1.9"
+  }
+]
