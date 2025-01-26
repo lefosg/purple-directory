@@ -1,0 +1,30 @@
+name: Terraform Destroy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  tf-apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4.2.2
+
+    # todo: login with az
+
+    - name: HashiCorp - Setup Terraform
+      uses: hashicorp/setup-terraform@v3.1.2
+      
+    - name: Terraform Init
+      run: terraform -chdir=terraform init
+
+    - name: Terraform Init
+      run: terraform -chdir=terraform validate
+
+    - name: Terraform Apply
+      run: terraform -chdir=terraform -auto-approve -var-file=vars.tfvars apply
+
